@@ -1,3 +1,9 @@
 This new text file is added to the branch quick-test 
 This will later be merged again with the master branch
+<<<<<<< HEAD
 """"The branch will be pushed to create a pull request with this line added here""""
+=======
+
+There is a line at index 3 in the quick-test branch while I am creating  this on line 4 to check 
+whether there will be a conflict or not.
+>>>>>>> master
